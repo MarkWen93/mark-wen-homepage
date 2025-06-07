@@ -59,7 +59,7 @@ export default function Home() {
         </div>
 
         <footer className="mt-16 sm:mt-24 pt-8 sm:pt-12 border-t text-center text-gray-700 text-lg sm:text-2xl">
-          <p className="mb-2">Let's connect — I'm often on <strong>Stanford campus</strong>.</p>
+          <p className="mb-2">Let&apos;s connect — I&apos;m often on <strong>Stanford campus</strong>.</p>
           <p className="text-blue-700 font-medium">
             📬 <a href="mailto:wenchenghui93@gmail.com" className="underline hover:text-blue-900">wenchenghui93@gmail.com</a>
           </p>
