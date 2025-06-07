@@ -4,14 +4,14 @@ export default function Home() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
         <h1 className="text-4xl sm:text-6xl font-extrabold mb-3 sm:mb-4 tracking-tight text-gray-900">Mark Wen</h1>
         <p className="italic text-gray-600 mb-2 sm:mb-3 text-lg sm:text-2xl">System Builder · Founder · Cross-Border Bridge</p>
-        <p className="text-gray-500 mb-6 sm:mb-10 text-base sm:text-xl">You don't have to be famous to build for history. You just have to be faithful.</p>
+        <p className="text-gray-500 mb-6 sm:mb-10 text-base sm:text-xl">You don&apos;t have to be famous to build for history. You just have to be faithful.</p>
 
         <div className="space-y-8 sm:space-y-14 text-base sm:text-2xl text-gray-900 leading-relaxed">
           <section>
             <p className="mb-4 sm:mb-6">I design systems across <strong>technology, storytelling, education, and philosophy</strong> — with one goal: <strong>to help people build for meaning, not just scale</strong>.</p>
             <p className="mb-4 sm:mb-6">I dropped out of college in China in my early 20s and founded a mobile-first vertical e-commerce platform that reached <strong>20 million users</strong>. I raised <strong>$20M</strong> from <strong>Sequoia China</strong> and <strong>Tencent</strong>, building my first startup in Beijing.</p>
             <p className="mb-4 sm:mb-6">Later, I co-founded a <strong>comic reading platform</strong> that became a <strong>unicorn</strong>, with <strong>40 million monthly active users</strong>, reshaping how young people in China consume digital content.</p>
-            <p className="mb-4 sm:mb-6">I've built <strong>a bridge between China and the U.S.</strong> — connecting <strong>tech founders, business leaders, and rising young talent</strong> across <strong>Stanford, Harvard</strong>, and beyond. I focus on long-term collaboration, cultural depth, and system design across borders.</p>
+            <p className="mb-4 sm:mb-6">I&apos;ve built <strong>a bridge between China and the U.S.</strong> — connecting <strong>tech founders, business leaders, and rising young talent</strong> across <strong>Stanford, Harvard</strong>, and beyond. I focus on long-term collaboration, cultural depth, and system design across borders.</p>
             <p className="mb-4 sm:mb-6">In 2023, I moved to the Bay Area. I overcame language and cultural barriers to join the AI wave, and began building:</p>
             <ul className="list-disc list-inside pl-5 sm:pl-6 space-y-1 sm:space-y-2">
               <li><span className="text-blue-700 font-medium">Little Hero</span> — an AI-native personalized storybook platform for early childhood imagination</li>
@@ -48,7 +48,7 @@ export default function Home() {
           </section>
 
           <section>
-            <h2 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4 mt-8 sm:mt-12 text-gray-900">Who I'm Looking to Meet</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4 mt-8 sm:mt-12 text-gray-900">Who I&apos;m Looking to Meet</h2>
             <ul className="list-disc list-inside pl-5 sm:pl-6 text-base sm:text-2xl text-gray-900 space-y-1 sm:space-y-2">
               <li><strong>Builders</strong> with global ambition</li>
               <li><strong>Founders, educators, and creators</strong> shaping the future of <strong>AI, learning, and storytelling</strong></li>
